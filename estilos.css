@@ -47,7 +47,7 @@
     position: fixed;
     z-index: 20;
     width: 100%;
-    background-color: rgba(1, 69, 79, 0.8);
+    background-color: rgba(1, 69, 79, 0.9);
 }
 
 .navg a
@@ -118,7 +118,8 @@ html
     justify-content: center;
     font-family: "Century Gothic";
     text-align: center;
-    padding: 8%;
+    padding: 0 8%;
+    padding-top: 12%;
     color: rgb(6, 53, 59);
 }
 
@@ -127,7 +128,8 @@ html
     justify-content: center;
     font-family: "Century Gothic";
     text-align: center;
-    padding: 4% 8%;
+    padding: 0 8%;
+    padding-top: 12%;
     color: rgb(6, 53, 59);
 }
 
@@ -136,7 +138,8 @@ html
     justify-content: center;
     font-family: "Century Gothic";
     text-align: center;
-    padding: 4% 8%;
+    padding: 0 8%;
+    padding-top: 12%;
     color: rgb(6, 53, 59);
 }
 
@@ -145,7 +148,8 @@ html
     justify-content: center;
     font-family: "Century Gothic";
     text-align: center;
-    padding: 4% 8%;
+    padding: 0 8%;
+    padding-top: 12%;
     color: rgb(6, 53, 59);
 }
 
